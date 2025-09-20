@@ -4,7 +4,7 @@
 🎓 **Data Science Major @ Drexel University**  
 📚 **Minors:** Computer Science, Artificial Intelligence & Learning  
 😃 Passionate about data-driven insights, machine learning, and applied research  
-🎯 Aspiring **Data Scientist**
+🎯 Aspiring Data Scientist
 
 ---
 
