@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Kevin Shi  
+# Kevin Shi's Github Profile 👋
 
 ## About Me
 🎓 **Data Science Major @ Drexel University**  
