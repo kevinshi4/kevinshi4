@@ -36,4 +36,4 @@
 
 ---
 
-Thanks for visiting! Check out my repositories for more projects and research.  
+Thanks for visiting! Check out my repositories for more projects.  
