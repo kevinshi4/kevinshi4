@@ -1,8 +1,8 @@
 # Kevin Shi's GitHub Profile 👋
 
 ## About Me
-🎓 **Data Science Major @ Drexel University**  
-📚 **Minors:** Computer Science, Artificial Intelligence & Learning  
+🎓 **MSE in Data Science Student @ University of Pennsylvania**  
+🎓 **B.S. in Data Science, Drexel University** (Minors: Computer Science, Artificial Intelligence & Learning) 
 😃 Passionate about data-driven insights, machine learning, and applied research  
 🎯 Aspiring Data Scientist
 
@@ -32,7 +32,7 @@
 
 ## Connect With Me
 - [LinkedIn](http://www.linkedin.com/in/kevin-shi-929ab922b)  
-- Email: ks3942@drexel.edu  
+- Email: kshi4@engineering.upenn.edu
 
 ---
 
