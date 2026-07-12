@@ -2,8 +2,7 @@
 
 ## About Me
 🎓 **MSE in Data Science Student @ University of Pennsylvania**  
-🎓 **B.S. in Data Science, Drexel University** (Minors: Computer Science, Artificial Intelligence & Learning)
-
+🎓 B.S. in Data Science, Drexel University (Minors: Computer Science, Artificial Intelligence & Learning)
 😃 Passionate about data-driven insights, machine learning, and applied research  
 🎯 Aspiring Data Scientist
 
